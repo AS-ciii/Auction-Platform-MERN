@@ -1,1 +1,1 @@
-# Auction-Platform-MERN
+# AuctionHub - MERN stack auction platform 
